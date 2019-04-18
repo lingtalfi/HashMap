@@ -27,7 +27,11 @@ Or just download it and place it where you want otherwise.
 Summary
 ===========
 - [HashMap api](https://github.com/lingtalfi/HashMap/blob/master/doc/api/Ling/HashMap.md) (generated with [DocTools](https://github.com/lingtalfi/DocTools))
-
+- [How to use](#how-to-use)
+    - [Example #1: without paths](#example-1-without-paths)
+    - [Example #2: with paths](#example-2-with-paths)
+- [A hash map example](#a-hash-map-example)
+- [History Log](#history-log)
 
 
 
