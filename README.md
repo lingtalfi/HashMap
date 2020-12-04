@@ -116,6 +116,10 @@ css/tachyons.css::eb5c7576c7adb08b06b8b71aa695c87ccb96e966
 History Log
 =============
 
+- 1.0.2 -- 2020-12-04
+
+    - Add lpi-deps.byml file
+
 - 1.0.1 -- 2019-07-18
 
     - update docTools documentation, add links to source code for classes and methods
